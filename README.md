@@ -24,7 +24,7 @@ See [INSTALL.md](INSTALL.md) for detailed installation instructions.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/AnonCodexCli.git
+git clone https://github.com/AnonAmit/AnonCodexCli.git
 cd AnonCodexCli
 ```
 
