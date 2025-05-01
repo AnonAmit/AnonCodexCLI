@@ -142,6 +142,8 @@ options:
                         Query to process (if provided, runs in non-interactive mode and exits after completion)
 ```
 
+## TOOL UI SCREENSHOTS
+![Execution](https://github.com/AnonAmit/AnonCodexCLI/blob/main/image/Build_execution.png)
 ## License
 
 MIT License 
