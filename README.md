@@ -1,6 +1,6 @@
 # AnonCodexCli
 An interactive CLI-based AI coding assistant inspired by Cursor.
-![AnonCodexCLI Screenshot](image/UI.png)
+![AnonCodexCLI Screenshot](https://github.com/AnonAmit/AnonCodexCLI/blob/main/image/UI.png)
 
 ## Features
 
